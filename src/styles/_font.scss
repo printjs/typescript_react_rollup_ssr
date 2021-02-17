@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Lato";
+  src: url("#{$font-family-path}/Lato-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("#{$font-family-path}/Lato-Bold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("#{$font-family-path}/Lora.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("#{$font-family-path}/Lorabold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}

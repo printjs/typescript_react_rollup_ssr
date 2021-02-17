@@ -1,0 +1,13 @@
+.titanhouse-container {
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+  font-family: $body-font-family;
+  .flex-box {
+    display: flex;
+    align-items: center;
+    img {
+      height: 100px;
+    }
+  }
+}
