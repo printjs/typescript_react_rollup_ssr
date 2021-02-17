@@ -1,5 +1,5 @@
-# typescript_react_rollup_ssr
-typescript react rollup ssr
+# typescript react rollup ssr
+typescript+react+rollup+ssr = ⚡+❤️
 
 ## How to use
 > The template uses rollup to build applications and uses server-side rendering. Please feel free to use it.
